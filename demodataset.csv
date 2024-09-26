@@ -1,0 +1,21 @@
+Name,Age,City,Mark,Phone Number
+Alice,25,Chennai,85,9876543210
+Bob,30,Mumbai,90,9876543211
+Charlie,28,Delhi,88,9876543212
+David,32,Bangalore,92,9876543213
+Eve,24,Hyderabad,86,9876543214
+Frank,27,Kolkata,89,9876543215
+Grace,26,Pune,91,9876543216
+Henry,29,NaN,93,9876543217
+Isabella,23,Jaipur,87,9876543218
+Jack,31,Lucknow,94,9876543219
+NaN,22,Kanpur,85,9876543220
+Liam,33,Nagpur,96,9876543221
+Maya,21,Indore,88,9876543222
+Noah,20,Patna,90,9876543223
+Olivia,34,Bhopal,92,9876543224
+Penelope,27,Coimbatore,86,9876543225
+Quentin,NaN,Surat,89,9876543226
+Riley,28,Vadodara,91,9876543227
+Sophia,26,Ranchi,93,9876543228
+Thomas,29,Bhubaneswar,87,9876543229
